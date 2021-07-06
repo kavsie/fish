@@ -1,4 +1,4 @@
-# fish
+# shark
 project to learn new selenium concepts, code design and gitHub collaboration
 
 ## goals
