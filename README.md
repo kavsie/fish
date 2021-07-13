@@ -1,5 +1,6 @@
 # fish
 ![GitHub contributors](https://img.shields.io/github/contributors/kavsie/fish?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kavsie/fish?style=social)
 
 project to learn new selenium concepts, code design and gitHub collaboration
 
@@ -22,4 +23,4 @@ project to learn new selenium concepts, code design and gitHub collaboration
 ## references
 - [naming conventions](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
 - [shields badges](https://shields.io)
-
+- [shields activity badge](https://shields.io/category/activity)
