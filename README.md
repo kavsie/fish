@@ -23,4 +23,4 @@ project to learn new selenium concepts, code design and gitHub collaboration
 ## references
 - [naming conventions](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
 - [shields badges](https://shields.io)
-
+- [shields activity badge](https://shields.io/category/activity)
