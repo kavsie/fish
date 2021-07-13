@@ -1,4 +1,6 @@
-# shark
+# fish
+![GitHub contributors](https://img.shields.io/github/contributors/kavsie/fish?style=flat-square)
+
 project to learn new selenium concepts, code design and gitHub collaboration
 
 ## goals
@@ -19,4 +21,5 @@ project to learn new selenium concepts, code design and gitHub collaboration
 
 ## references
 - [naming conventions](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
+- [shields badges](https://shields.io)
 
